@@ -12,6 +12,7 @@ def hello_world():
 ```
 
 To Run application (Mac):
+-- cd into project directory and run:
 ```
 $ export FLASK_APP=hello.py
 $ flask run
